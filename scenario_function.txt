@@ -1,4 +1,4 @@
-$FreeRemoteCode = "69244748";
+$FreeRemoteCode = "XXXXXX";
 $Tags= $scenario->getTags();
 $TvChannel = $Tags['#channel#'];
 $scenario->setLog("lance le prog twitch");
