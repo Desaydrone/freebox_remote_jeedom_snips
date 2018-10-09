@@ -1,21 +1,26 @@
-// ##### V 0.2 ####
+// ##### V 0.3 ####
 
 $FreeRemoteCode = "XXXXX";
 $Tags= $scenario->getTags();
 $TvChannel = $Tags['#channel#'];
 $scenario->setLog("lance le prog twitch");
 
-/* function LongSoundDown(){
-  $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=vol_dec&long=true";
-  file_get_contents($url);
-}
-
-function LongSoundUp(){
-  $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=vol_inc&long=true";
-  file_get_contents($url);
-}*/
-
 switch ($TvChannel) {
+  case 'mute' || 'unmute' {
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=mute&long=true";
+    file_get_contents($url);
+    break;
+  }
+  case 'volup':{
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=vol_inc&long=true";
+    file_get_contents($url);
+    break;
+  }
+  case 'voldown':{
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=vol_dec&long=true";
+    file_get_contents($url);
+    break;
+  }
   case 'accueil': {
     $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=home";
     file_get_contents($url);
@@ -53,9 +58,9 @@ switch ($TvChannel) {
     file_get_contents($url);
     $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=ok";
     file_get_contents($url);
-    sleep(1);
+    sleep(2);
     $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=down";
-      for ($i=0; $i<=5; $i++ )
+      for ($i=0; $i<=4; $i++ )
       {
         file_get_contents($url);
         sleep(1);

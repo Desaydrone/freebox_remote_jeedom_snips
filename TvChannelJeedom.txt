@@ -1,0 +1,167 @@
+
+[augmente](channel) le volume de la télévision
+[monte](channel) le volume de la télévision
+[diminue](channel) le volume de la télévision
+[baisse](channel) le volume de la télévision
+[augmente](channel) le son de la télévision
+[monte](channel) le son de la télévision
+[diminue](channel) le son de la télévision
+[baisse](channel) le son de la télévision
+mets la [télévision](channel)
+[sort du programme tv](channel)
+affiche le [programme tv](channel)
+[sort du programme télé](channel)
+affiche le [programme télé](channel)
+mets le [stream](channel)
+je veux voir [twitch](channel)
+mets [twitch](channel)
+peux-tu mettre [france deux](channel) s'il te plait
+je veux voir [france deux](channel)
+mets [france deux](channel)
+peux-tu mettre [france cinq](channel) s'il te plait
+je veux voir [france cinq](channel)
+mets [france cinq](channel)
+peux-tu mettre [france 5](channel) s'il te plait
+je veux voir [france 5](channel)
+mets [france 5](channel)
+mets [sept](channel)
+je veux voir [Numéro 23](channel)
+je veux voir [TMC](channel)
+mets [douze](channel)
+je veux voir [Numéro 23](channel)
+mets [vingt-cinq](channel)
+mets [france 3](channel)
+mets [6ter](channel)
+mets [france 3](channel)
+mets [france 2](channel)
+mets [Numéro 23](channel)
+y'a quoi sur sur la [quatre](channel) ?
+change de chaine je veux voir la [france 4](channel)
+mets moi la [L'équipe](channel)
+mets la [deux](channel)
+mets la [la 12](channel)
+Mets la [W9](channel)
+je veux regarder la [12](channel)
+Mets [canal plus](channel)
+Mets  [BFM TV](channel)
+Mets [public sénat](channel)
+Mets [M6](channel)
+Mets [canal plus](channel)
+chaine numéro [deux](channel)
+chaine [tfx](channel)
+
+chaine [vingt-et-un](channel)
+chaine [tmc](channel)
+chaine [France Ô](channel)
+je veux voir [france 4](channel)
+change de chaine pour le [numéro 23](channel)
+Je veux voir la chaine [6ter](channel)
+je désire la [dix sept](channel)
+mets moi [Gulli](channel)
+Mets la [une](channel)
+Mets [L'équipe](channel)
+Mets [TF1](channel)
+Mets [la une](channel)
+Mets [M6](channel)
+Je veux la [treize](channel)
+Je veux [arte](channel)
+Je veux [Gulli](channel)
+Je veux la [neuf](channel)
+Je veux la [dix huit](channel)
+Mets la chaîne [dix](channel)
+Passe sur la [une](channel)
+Mets la chaîne [M6](channel)
+Mets [la une](channel)
+Montre la chaîne [M6](channel)
+peux tu mettre la chaine [vingt-deux](channel)
+je veux regarder [CNEWS](channel)
+connectes toi sur [LCP](channel)
+je veux regarder la chaine [onze](channel)
+mets la chaine [vingt-deux](channel)
+Mets le programme de la [neuf](channel)
+Passe sur la chaîne [dix sept](channel)
+Mets [LCI](channel)
+Passe sur la chaîne [huit](channel)
+Change de chaîne et mets la [huit](channel)
+Je veux la [vingt-cinq](channel)
+Je veux la [12](channel)
+Je veux la [vingt-et-un](channel)
+Je veux [france 2](channel)
+Je veux la [trois](channel)
+mets-toi sur le canal [vingt-cinq](channel)
+peut-on voir la chaîne canal [seize](channel)
+montre-moi la chaine [Numéro 23](channel)
+peux-tu me mettre [france 4](channel) s'il te plaît
+mets-moi [CNEWS](channel)
+[C news](channel) s'il te plaît
+[public sénat](channel) s'il te plaît
+[dix sept](channel) s'il te plaît
+[RMC découverte](channel) s'il te plaît
+La [huit](channel) s'il te plaît
+Regarder chaîne numéro [vingt-cinq](channel).
+Mettre chaîne [L'équipe](channel) TV
+Aller chaîne [treize](channel).
+Regarder [France Ô](channel).
+Changer chaîne pour [Numéro 23](channel).
+Je veux voir [la 12](channel).
+Je veux voir la [treize](channel).
+Choisis la [vingt-deux](channel).
+Je veux regarder [France info](channel).
+Je veux regarder [TMC](channel);
+Mets [CNEWS](channel)
+Je veux regarder la [vingt-cinq](channel)
+Je veux regarder [arte](channel)
+Je veux regarder [CNEWS](channel)
+Je veux regarder [la une](channel)
+Mets la chaîne [onze](channel)
+Mets la chaîne [LCP](channel)
+Mets la chaîne [quatorze](channel)
+Mets [C8](channel)
+Zappe sur la chaine [quatorze](channel).
+Change de chaine pour [Gulli](channel).
+Je veux voir la chaine [quatorze](channel).
+Visionne [Gulli](channel).
+Je souhaite regarder [france 2](channel).
+Je voudrais regarder [LCP](channel).
+Je veux regarder [LCP](channel).
+Je voudrais regarder la [vingt-cinq](channel).
+Choisis la [deuxième](channel).
+Je veux regarder la [dix neuf](channel).
+change de [canal](channel)
+mets la chaine [C8](channel)
+je veux regarder la chaine [Numéro 23](channel)
+change pour [LCI](channel)
+chaine numéro [dix](channel)
+chaine [vingt-deux](channel)
+chaine [vingt-quatre](channel)
+voir [France 3](channel)
+Va sur la chaine [trois](channel)
+je veux regarder [RMC découverte](channel)
+Aller sur [BFM TV](channel)
+Je voudrais regarder [TF1](channel)
+Regarder la chaine [Numéro 23](channel)
+Mets la chaîne [quatorze](channel) s'il te plait
+Chaîne [huit](channel) merci
+Passes sur [Gulli](channel)
+Change pour la chaîne [24](channel)
+Branche moi sur [M6](channel)
+Je veux voir [canal](channel)
+mets moi [M6](channel)
+Je désire la [deuxième](channel)
+change pour [france 3](channel)
+chaine [france 3](channel)
+chaine numéro [treize](channel)
+voir [tmc](channel)
+[deuxième](channel) chaine
+voir [arte](channel)
+Zappe sur [TMC](channel)
+Zappe sur [la une](channel)
+Zappe sur [TMC](channel)
+Zappe sur la [dix huit](channel)
+Zappe sur [L'équipe](channel)
+Je veux regarder la [six](channel)
+Je veux regarder la [quatorze](channel)
+Je veux regarder [la une](channel)
+Je veux regarder [TF1](channel)
+Je veux regarder [W9](channel)
+Mets la [12](channel)

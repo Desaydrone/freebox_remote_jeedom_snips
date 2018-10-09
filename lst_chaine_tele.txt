@@ -625,3 +625,7 @@ programmetv, programme télé, programme tv, programme
 sortprogrammetv, sort du programme télé, sort du programme tv, quitte le programme télé, quitte le programme tv
 twitch, stream
 télévision, mets la télévision, met une chaine télé
+volup, monte, augmente
+voldown, baisse, diminue
+mute, coupe le son de la télévision, coupe le son de la télé
+unmute, remet le son de la télévision, remet le son de la télé
