@@ -6,7 +6,7 @@ $TvChannel = $Tags['#channel#'];
 $scenario->setLog("lance le prog twitch");
 
 switch ($TvChannel) {
-  case 'mute' || 'unmute' {
+  case ($TvChannel=='mute' || $TvChannel=='unmute'): {
     $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=mute&long=true";
     file_get_contents($url);
     break;
