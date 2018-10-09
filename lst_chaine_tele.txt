@@ -1,0 +1,627 @@
+0, Mosaïque Freebox TV, Zèro
+1, TF1, TF un, Un, une
+2, France 2, france deux, Deux, deuxième
+3, France 3, france trois, Trois, troisième
+4, Canalplus, canal plus, Quatre, quatrième
+5, France 5, france cinq, Cinq, cinquième
+6, M6, m six, Six, sixième
+7, Arte, Sept, septième
+8, C8, c huit, Huit, huitième
+9, W9, W 9, W neuf, Neuf, neuvième
+10, TMC, Dix, dixième
+11, TFX, Onze
+12, NRJ 12, énergie douze, énergie 12, Douze
+13, LCP, La Chaine Parlementaire, Treize
+14, france 4, france quatre, Quatorze
+15, BFM TV, Quinze
+16, CNews, C News, Seize
+17, CStar, C Star, Dix-sept
+18, Gulli, Dix-huit
+19, France eau, Dix-neuf
+20, TF1 Séries Films, tf un séries films, Vingt
+21, L'équipe, Vingt un
+22, 6ter, 6 ter, sister, Vingt deux
+23, RMC Story, Vingt trois
+24, RMC Dècouverte, Vingt quatre
+25, Chèrie 25, chérie vingt cinq, Vingt cinq
+26, LCI, Vingt six
+27, France Info, Vingt sept
+28, Paris PremiËre, Vingt huit
+29, RTL9, rtl neuf, RTL 9, Vingt neuf
+30, Mosaïque chaines locales, Trente
+31, beIN Sports 1, beIN Sports un, Trente un
+32, beIN Sports 2, beIN Sports deux, Trente deux
+33, beIN Sports 3, beIN Sports trois, Trente trois
+34, Eurosport 1, Eurosport un, Trente quatre
+35, Eurosport 2, Eurosport deux, Trente cinq
+36, Infosportplus, Trente six
+37, OCS Max, Trente sept
+38, OCS City, Trente huit
+39, OCS Choc, Trente neuf
+40, OCS Gants, Quarante
+41, Canalplus CinÈma, Quarante un
+42, Canalplus Sport, Quarante deux
+43, Canalplus Sèries, Quarante trois
+44, Canalplus Family, Quarante quatre
+45, Canalplus Décalé, Quarante cinq
+46, à la une Canal, Quarante six
+47, QVC, Quarante sept
+48, Disney Channel, Quarante huit
+50, Game One, Cinquante
+51, AB1, AB 1, AB un, Cinquante un
+52, Paramount Channel, Cinquante deux
+53, Téva, Cinquante trois
+54, TV Breizh, Cinquante quatre
+55, Polarplus, Cinquante cinq
+56, Série Club, Cinquante six
+57, Warner TV, Cinquante sept
+58, Novelas TV, Novelas, Cinquante huit
+59, Planète plus, Cinquante neuf
+60, National Geographic Channel, Soixante
+61, Nat Geo Wild, Soixante un
+62, Voyage, Soixante deux
+64, M6 Music, m six musique, Soixante quatre
+66, MTV Hits, Soixante six
+70, TV5 Monde, tv 5 monde, Soixante dix
+80, Comédieplus, Comédie, Quatre-vingt
+84, MTV, Quatre-vingt quatre
+85, ELLE Girl, Quatre-vingt cinq
+86, Non Stop People, Quatre-vingt six
+87, MCM, Quatre-vingt sept
+88, J-One, Quatre-vingt huit
+89, Game One plus un, Quatre-vingt neuf
+90, Mangas, Quatre-vingt dix
+91, ES1, ES 1, ES un, Quatre-vingt onze
+94, GONG, Quatre-vingt quatorze
+95, GONG MAX, Quatre-vingt quinze
+97, Ginx TV, Quatre-vingt dix-sept
+98, Viceland, Quatre-vingt dix-huit
+99, BET, Quatre-vingt dix-neuf
+100, Stingray Festival 4K, Cent
+101, TF1 4K, TF un quatre K, Cent un
+105, Disney Cinéma, Cent cinq
+106, Canalplay, Cent six
+107, Abctek, Cent sept
+108, Disneytek, Cent huit
+109, Cinéplus Premier, Cent neuf
+110, Cinéplus Frisson, Cent dix
+111, Cinéplus émotion, Cent onze
+112, Cinéplus Famiz, Cent douze
+113, Cinéplus Club, Cent treize
+114, Cinéplus Classic, Cent quatorze
+118, SundanceTV, Cent dix-huit
+119, Eurochannel, Cent dix-neuf
+120, Drive-in Movie Channel, Cent vingt
+121, Action, Cent vingt un
+122, Paramount Channel Décalé, Cent vingt deux
+123, TCM Cinéma, Cent vingt trois
+139, Disney Channel plus1, Disney Channel plus un, Cent trente neuf
+140, Disney Junior, Cent quarante
+141, Nickelodeon Junior, Cent quarante un
+142, TiJi, Cent quarante deux
+143, Piwiplus, Cent quarante trois
+144, Boomerang, Cent quarante quatre
+145, Boomerang plus1, Boomerang plus un, Cent quarante cinq
+146, Cartoon Network, Cent quarante six
+147, Nickelodeon, Cent quarante sept
+148, Disney XD, Cent quarante huit
+149, Canal J, Cent quarante neuf
+150, Télétoonplus, Cent cinquante
+151, Télétoonplus1, Télétoonplus 1, Télétoonplus un, Cent cinquante un
+152, Nickelodeon Teen, Cent cinquante deux
+153, Boing, Cent cinquante trois
+154, Toonami, Cent cinquante quatre
+155, BabyTV, Cent cinquante cinq
+156, Nickelodeon plus1, Nickelodeon plus un, Cent cinquante six
+171, OM TV, Cent soixante onze
+172, OL TV, Cent soixante douze
+173, Onzéo, Cent soixante treize
+174, Girondins TV, Cent soixante quatorze
+175, PFC, Cent soixante quinze
+176, Equidia, Cent soixante seize
+178, Trace Sport Stars, Cent soixante dix-huit
+179, Fight Box, Cent soixante dix-neuf
+180, AB Moteurs, Cent quatre-vingt
+181, Motorsport tv, Cent quatre-vingt un
+182, Motorvision TV, Cent quatre-vingt deux
+183, Nautical Channel, Cent quatre-vingt trois
+185, Golf Channel, Cent quatre-vingt cinq
+187, Extreme Sports Channel, Cent quatre-vingt sept
+188, Golfplus, Cent quatre-vingt huit
+200, Planèteplus, CrimeplusInvestigation, Deux cent
+201, Planéteplus A&E, Deux cent un
+202, Crime District, Deux cent deux
+203, Ultra Nature 4K, Deux cent trois
+204, Ushuaïa TV, Deux cent quatre
+205, Histoire, Deux cent cinq
+206, Toute l'Histoire, Deux cent six
+207, Science et Vie TV, Deux cent sept
+208, Animaux, Deux cent huit
+209, Trek, Deux cent neuf
+210, Aérostar, Deux cent dix
+211, Souvenirs from Earth, Deux cent onze
+212, Ikono tv, Deux cent douze
+213, Museum, Deux cent treize
+214, Purescreens Nature HD, Deux cent quatorze
+215, Travel Channel, Deux cent quinze
+216, Chasse et Pêche, Deux cent seize
+217, Seasons, Deux cent dix-sept
+218, Telesud, Deux cent dix-huit
+219, Tahiti Nui Télévision, Deux cent dix-neuf
+220, MB Live TV, Deux cent vingt
+230, La Chaîne météo, Deux cent trente
+231, Vivolta, Deux cent trente un
+232, M6 Boutique, Deux cent trente deux
+233, Best of Shopping, Deux cent trente trois
+234, Luxe TV, Deux cent trente quatre
+235, Astrocenter TV, Deux cent trente cinq
+236, Demain TV, Deux cent trente six
+238, Men's UP TV, Deux cent trente huit
+239, OUATCH TV, Deux cent trente neuf
+240, World Fashion, Deux cent quarante
+241, Fashion TV, Deux cent quarante un
+242, Fashion TV HD, Deux cent quarante deux
+243, my Zen TV, Deux cent quarante trois
+244, Lucky Jack tv, Deux cent quarante quatre
+245, KTO, Deux cent quarante cinq
+246, English Club TV, Deux cent quarante six
+247, STAR 24, Deux cent quarante sept
+259, CStar Hits France, Deux cent cinquante neuf
+261, RFM TV, Deux cent soixante un
+262, Melody, Deux cent soixante deux
+263, Mezzo, Deux cent soixante trois
+264, Mezzo Live HD, Deux cent soixante quatre
+265, Stingray Djazz, Deux cent soixante cinq
+266, Stingray Brava, Deux cent soixante six
+267, Stingray iConcerts SD, Deux cent soixante sept
+268, Stingray iConcerts HD, Deux cent soixante huit
+270, Virgin Radio TV, Deux cent soixante dix
+271, MCM Top, Deux cent soixante onze
+274, Clubbing TV, Deux cent soixante quatorze
+278, C Music, Deux cent soixante dix-huit
+279, VH1, VH un, Deux cent soixante dix-neuf
+280, VH1 Classic, VH un Classic, Deux cent quatre-vingt
+281, OKLM TV, Deux cent quatre-vingt un
+282, Générations TV, Deux cent quatre-vingt deux
+283, People 24, Deux cent quatre-vingt trois
+287, Trace Urban, Deux cent quatre-vingt sept
+288, Trace Tropical, Deux cent quatre-vingt huit
+289, Trace Toca, Deux cent quatre-vingt neuf
+290, Trace Gospel, Deux cent quatre-vingt dix
+291, BBLACK, Deux cent quatre-vingt onze
+294, Melody d'Afrique, Deux cent quatre-vingt quatorze
+300, Mosaïque France 3, Trois cent
+301, France 3 National, Trois cent un
+302, France 3 Alpes, Trois cent deux
+303, France 3 Alsace, Trois cent trois
+304, France 3 Aquitaine, Trois cent quatre
+305, France 3 Auvergne, Trois cent cinq
+306, France 3 Basse-Normandie, Trois cent six
+307, France 3 Bourgogne, Trois cent sept
+308, France 3 Bretagne, Trois cent huit
+309, France 3 Centre-Val de Loire, Trois cent neuf
+310, France 3 Champagne-Ardenne, Trois cent dix
+311, France 3 Corse ViaStella, Trois cent onze
+312, France 3 Côte d'Azur, Trois cent douze
+313, France 3 Franche-ComtÈ, Trois cent treize
+314, France 3 Haute-Normandie, Trois cent quatorze
+315, France 3 Languedoc-Roussillon, Trois cent quinze
+316, France 3 Limousin, Trois cent seize
+317, France 3 Lorraine, Trois cent dix-sept
+318, France 3 Midi-Pyrénées, Trois cent dix-huit
+319, France 3 Nord-Pas-de-Calais, Trois cent dix-neuf
+320, France 3 Paris Œle-de-France, Trois cent vingt
+321, France 3 Pays de la Loire, Trois cent vingt un
+322, France 3 Picardie, Trois cent vingt deux
+323, France 3 Poitou-Charentes, Trois cent vingt trois
+324, France 3 Provence-Alpes, Trois cent vingt quatre
+325, France 3 Rhône-Alpes, Trois cent vingt cinq
+326, NoA6, NoA six, Trois cent vingt six
+340, France 24 français, Trois cent quarante
+341, France 24 anglais, Trois cent quarante un
+342, France 24 arabe, Trois cent quarante deux
+343, LCP Assemblée Nationale, Trois cent quarante trois
+344, Public Sénat, Trois cent quarante quatre
+345, Euronews, Trois cent quarante cinq
+346, Euronews Multilingue, Trois cent quarante six
+347, BFM Business, Trois cent quarante sept
+348, Arrêt sur images, Trois cent quarante huit
+349, BBC World News, Trois cent quarante neuf
+350, Sky News, Trois cent cinquante
+351, CNN International, Trois cent cinquante un
+352, Fox News Channel, Trois cent cinquante deux
+353, Bloomberg TV, Trois cent cinquante trois
+354, CNBC, Trois cent cinquante quatre
+355, Al Jazeera English, Trois cent cinquante cinq
+356, Africa 24, Trois cent cinquante six
+357, i24news, i 24 news, Trois cent cinquante sept
+358, NHK World, Trois cent cinquante huit
+359, RT France, Trois cent cinquante neuf
+369, Frissons ExtrÍmes, Trois cent soixante neuf
+370, Dorcel TV, Trois cent soixante dix
+371, Dorcel XXX, Trois cent soixante onze
+372, Stars XXX TV, Trois cent soixante douze
+373, XXL, Trois cent soixante treize
+374, Penthouse, Trois cent soixante quatorze
+375, Penthouse 1, Trois cent soixante quinze
+376, Penthouse 2, Trois cent soixante seize
+377, Penthouse Black, Trois cent soixante dix-sept
+378, Brazzers TV, Trois cent soixante dix-huit
+379, Brazzers TV J-1, Trois cent soixante dix-neuf
+380, Brazzers TV J-2, Trois cent quatre-vingt
+381, Brazzers TV J-3, Trois cent quatre-vingt un
+382, Reality Kings TV, Trois cent quatre-vingt deux
+383, Babes TV, Trois cent quatre-vingt trois
+384, Hustler TV, Trois cent quatre-vingt quatre
+385, Vivid TV, Trois cent quatre-vingt cinq
+393, My XXL, Trois cent quatre-vingt treize
+396, Pink TV, Trois cent quatre-vingt seize
+397, Man-X, Trois cent quatre-vingt dix-sept
+398, Gay VOD Club, Trois cent quatre-vingt dix-huit
+399, Pink Gay VOD, Trois cent quatre-vingt dix-neuf
+402, beIN Sports Max 4, Quatre cent deux
+403, beIN Sports Max 5, Quatre cent trois
+404, beIN Sports Max 6, Quatre cent quatre
+405, beIN Sports Max 7, Quatre cent cinq
+406, beIN Sports Max 8, Quatre cent six
+407, beIN Sports Max 9, Quatre cent sept
+408, beIN Sports Max 10, Quatre cent huit
+409, Footplus, Quatre cent neuf
+410, Multisports 1, Quatre cent dix
+411, Multisports 2, Quatre cent onze
+412, Multisports 3, Quatre cent douze
+413, Multisports 4, Quatre cent treize
+414, Multisports 5, Quatre cent quatorze
+415, Multisports 6, Quatre cent quinze
+420, GOD TV, Quatre cent vingt
+421, Noursat, Quatre cent vingt un
+422, Daystar, Quatre cent vingt deux
+426, BBC Entertainment, Quatre cent vingt six
+430, Ubiznews TV, Quatre cent trente
+431, Nina TV, Quatre cent trente un
+432, TPA Internacional, Quatre cent trente deux
+433, TNH, Quatre cent trente trois
+436, HLIVE, Quatre cent trente six
+444, Aplus, Quatre cent quarante quatre
+445, Antenne A, Quatre cent quarante cinq
+446, B-One, Quatre cent quarante six
+447, Maïsha TV, Quatre cent quarante sept
+448, Sen TV, Quatre cent quarante huit
+449, TVT, Quatre cent quarante neuf
+450, RTB, Quatre cent cinquante
+451, ORTB, Quatre cent cinquante un
+452, TFM, Quatre cent cinquante deux
+453, Canal 2 International, Quatre cent cinquante trois
+454, CRTV, Quatre cent cinquante quatre
+455, STV2, Quatre cent cinquante cinq
+456, Equinoxe TV, Quatre cent cinquante six
+457, Trace Africa, Quatre cent cinquante sept
+458, Télé Congo, Quatre cent cinquante huit
+459, RTNC, Quatre cent cinquante neuf
+460, Nollywood TV, Quatre cent soixante
+461, RTI 1, Quatre cent soixante un
+462, Gabon TV, Quatre cent soixante deux
+463, RTG, Quatre cent soixante trois
+464, Gospel Music TV, Quatre cent soixante quatre
+465, ORTM, Quatre cent soixante cinq
+466, 2sTV, Quatre cent soixante six
+467, RTS 1, Quatre cent soixante sept
+469, Africable, Quatre cent soixante neuf
+470, SUD1ere, Quatre cent soixante dix
+471, TVM, Quatre cent soixante onze
+472, ORTC, Quatre cent soixante douze
+473, MBC Sat, Quatre cent soixante treize
+474, Télé Kréol, Quatre cent soixante quatorze
+475, Voxafrica, Quatre cent soixante quinze
+476, Africabox, Quatre cent soixante seize
+477, OM5 TV, Quatre cent soixante dix-sept
+478, MBOA TV, Quatre cent soixante dix-huit
+479, LBC Sat, Quatre cent soixante dix-neuf
+480, Medi 1 TV, Quatre cent quatre-vingt
+481, Canal AlgÈrie, Quatre cent quatre-vingt un
+482, Algérie 3, Quatre cent quatre-vingt deux
+483, Algérie 5, Quatre cent quatre-vingt trois
+484, Tamazight TV4, Quatre cent quatre-vingt quatre
+485, Al Erth Al Nabawi, Quatre cent quatre-vingt cinq
+486, Beur TV, Quatre cent quatre-vingt six
+487, Berbère TV, Quatre cent quatre-vingt sept
+488, Berbère Jeunesse, Quatre cent quatre-vingt huit
+489, Berbère Music, Quatre cent quatre-vingt neuf
+490, Al-Ahly, Quatre cent quatre-vingt dix
+491, Al-Resalah, Quatre cent quatre-vingt onze
+492, Rotana Aflam, Quatre cent quatre-vingt douze
+493, Rotana Cinema, Quatre cent quatre-vingt treize
+494, Rotana Clip, Quatre cent quatre-vingt quatorze
+495, Rotana Khalijia, Quatre cent quatre-vingt quinze
+496, Rotana Masriya, Quatre cent quatre-vingt seize
+497, Rotana Music Channel, Quatre cent quatre-vingt dix-sept
+498, Rotana Classic, Quatre cent quatre-vingt dix-huit
+499, Trace Naija, Quatre cent quatre-vingt dix-neuf
+500, Trace Mziki, Cinq cent
+502, TVP Polonia, Cinq cent deux
+503, TVN24, Cinq cent trois
+504, iTVN, Cinq cent quatre
+507, VTC 10, Cinq cent sept
+508, VTV 1, Cinq cent huit
+509, VTV 3, Cinq cent neuf
+510, HTV 9, Cinq cent dix
+514, Zee TV, Cinq cent quatorze
+515, Zee Cinema, Cinq cent quinze
+516, Arirang, Cinq cent seize
+518, B4U Music, Cinq cent dix-huit
+521, TV Romania, Cinq cent vingt un
+522, Pro TV, Cinq cent vingt deux
+523, Antena 3 Internacional, Cinq cent vingt trois
+524, Atreseries, Cinq cent vingt quatre
+525, Sol M˙sica, Cinq cent vingt cinq
+526, TV3 CAT, Cinq cent vingt six
+527, Galicia TV, Cinq cent vingt sept
+528, ETB Sat, Cinq cent vingt huit
+529, Star TVE HD, Cinq cent vingt neuf
+531, Tele Sur, Cinq cent trente un
+532, Ritmoson Latino, Cinq cent trente deux
+533, De PelÌcula, Cinq cent trente trois
+534, TLNovelas, Cinq cent trente quatre
+535, Las Estrellas Europe, Cinq cent trente cinq
+536, Telehit, Cinq cent trente six
+537, TVE Internacional, Cinq cent trente sept
+538, Canal 24 horas, Cinq cent trente huit
+542, ANT1, Cinq cent quarante deux
+543, Rai 1, Cinq cent quarante trois
+544, Rai 2, Cinq cent quarante quatre
+545, Rai 3, Cinq cent quarante cinq
+546, Mediaset Italia, Cinq cent quarante six
+550, Numidia TV, Cinq cent cinquante
+552, Tamazight TV, Cinq cent cinquante deux
+553, Al Magharibia, Cinq cent cinquante trois
+554, Euromed TV, Cinq cent cinquante quatre
+555, Ennahar TV, Cinq cent cinquante cinq
+556, Echourouk TV, Cinq cent cinquante six
+557, Ulusal Kanal, Cinq cent cinquante sept
+558, Arryadia, Cinq cent cinquante huit
+559, Canal Atlas, Cinq cent cinquante neuf
+564, 2M Maroc, Cinq cent soixante quatre
+565, TVM Europe, Cinq cent soixante cinq
+566, El Hiwar Ettounsi, Cinq cent soixante six
+567, Télévision tunisienne 1, Cinq cent soixante sept
+568, Al Masriyah, Cinq cent soixante huit
+569, Al Jazeera, Cinq cent soixante neuf
+570, JeemTV, Cinq cent soixante dix
+572, ART Cinéma, Cinq cent soixante douze
+573, ART Aflam 1, Cinq cent soixante treize
+574, ART Hekayat, Cinq cent soixante quatorze
+575, Iqraa TV, Cinq cent soixante quinze
+576, ART Aflam 2, Cinq cent soixante seize
+577, Cima, Cinq cent soixante dix-sept
+578, Baraem, Cinq cent soixante dix-huit
+579, LBC Europe, Cinq cent soixante dix-neuf
+580, ART Hekayat 2, Cinq cent quatre-vingt
+581, OTV, Cinq cent quatre-vingt un
+582, Powerterk TV, Cinq cent quatre-vingt deux
+583, TRT 1, Cinq cent quatre-vingt trois
+584, Euro D, Cinq cent quatre-vingt quatre
+585, Euro Star, Cinq cent quatre-vingt cinq
+586, TRT cocuk, Cinq cent quatre-vingt six
+587, TV 360, Cinq cent quatre-vingt sept
+588, ATV Avrupa, Cinq cent quatre-vingt huit
+589, Kanal 24, Cinq cent quatre-vingt neuf
+590, TRT Turk, Cinq cent quatre-vingt dix
+591, Kanal 7 Avrupa, Cinq cent quatre-vingt onze
+592, TRT World, Cinq cent quatre-vingt douze
+593, TVT, Cinq cent quatre-vingt treize
+594, Hilal TV, Cinq cent quatre-vingt quatorze
+595, TV5 Turkey, Cinq cent quatre-vingt quinze
+596, TGRT EU, Cinq cent quatre-vingt seize
+597, TV8 Int, Cinq cent quatre-vingt dix-sept
+598, NTV Avrupa, Cinq cent quatre-vingt dix-huit
+600, Halk TV, Six cent
+601, Geo TV, Six cent un
+602, Geo News, Six cent deux
+603, B4U Movies, Six cent trois
+606, VTV 4, Six cent six
+607, CTN, Six cent sept
+608, TVK, Six cent huit
+609, KBS World, Six cent neuf
+614, The Israeli Network, Six cent quatorze
+616, Arte Allemand, Six cent seize
+617, DW-TV, Six cent dix-sept
+618, RTL, Six cent dix-huit
+619, RTL II, Six cent dix-neuf
+620, Super RTL, Six cent vingt
+621, RTL Nitro, Six cent vingt un
+622, VOX, Six cent vingt deux
+623, ProSieben, Six cent vingt trois
+624, Sat 1, Six cent vingt quatre
+625, N-tv, Six cent vingt cinq
+626, N24, Six cent vingt six
+627, SIC Internacional, Six cent vingt sept
+628, SIC NotÌcias, Six cent vingt huit
+629, TVI Internacional, Six cent vingt neuf
+631, A Bola TV, Six cent trente un
+632, Porto Canal, Six cent trente deux
+633, BabyTV†portugais, Six cent trente trois
+635, Canal Q, Six cent trente cinq
+636, TVI Ficio, Six cent trente six
+637, RTPi, Six cent trente sept
+638, TV Globo, Six cent trente huit
+639, Deepam TV, Six cent trente neuf
+640, Kuwait TV 1, Six cent quarante
+643, Yemen TV, Six cent quarante trois
+644, Dubai TV, Six cent quarante quatre
+645, Abu Dhabi TV, Six cent quarante cinq
+648, Jordan Satellite Channel, Six cent quarante huit
+649, Kentron TV, Six cent quarante neuf
+650, ArmÈnie 1, Six cent cinquante
+651, Armenia TV, Six cent cinquante un
+652, Shant TV, Six cent cinquante deux
+653, Rossiya 24, Six cent cinquante trois
+654, Murr TV, Six cent cinquante quatre
+655, NBN, Six cent cinquante cinq
+656, Future TV, Six cent cinquante six
+657, Nessma, Six cent cinquante sept
+658, Al Jadeed TV, Six cent cinquante huit
+661, Almajd Holy Quran, Six cent soixante un
+662, Almajd Al Hadeeth, Six cent soixante deux
+663, Almajd Space Channel, Six cent soixante trois
+664, Iqraa Int, Six cent soixante quatre
+665, Azhari TV, Six cent soixante cinq
+666, Mazzika, Six cent soixante six
+667, Panorama Film, Six cent soixante sept
+668, Panorama Drama, Six cent soixante huit
+669, Samira TV, Six cent soixante neuf
+670, MBC MASR, Six cent soixante dix
+671, MBC Drama, Six cent soixante onze
+672, MBC 3, Six cent soixante douze
+673, MBC, Six cent soixante treize
+674, Al-Arabiya, Six cent soixante quatorze
+675, DzaÔr TV, Six cent soixante quinze
+676, DzaÔr News, Six cent soixante seize
+677, Al Rawda, Six cent soixante dix-sept
+678, Basma, Six cent soixante dix-huit
+679, Majid, Six cent soixante dix-neuf
+681, JSTV 1, Six cent quatre-vingt un
+682, JSTV 2, Six cent quatre-vingt deux
+685, Star Vijay, Six cent quatre-vingt cinq
+686, Star Life OK, Six cent quatre-vingt six
+687, Star Jalsha, Six cent quatre-vingt sept
+688, Star Plus, Six cent quatre-vingt huit
+689, Star Gold, Six cent quatre-vingt neuf
+690, RTV Pink Plus, Six cent quatre-vingt dix
+691, RTV Pink Extra, Six cent quatre-vingt onze
+692, RTV Pink Film, Six cent quatre-vingt douze
+693, RTV Pink Music, Six cent quatre-vingt treize
+695, RT News, Six cent quatre-vingt quinze
+696, RT EspaÒol, Six cent quatre-vingt seize
+697, TV Record Internacional, Six cent quatre-vingt dix-sept
+698, Rusiya Al-Yaum, Six cent quatre-vingt dix-huit
+699, Record News, Six cent quatre-vingt dix-neuf
+700, Karusel, Sept cent
+701, Pierviy Kanal, Sept cent un
+702, STS, Sept cent deux
+703, TNT, Sept cent trois
+704, RTR Planeta, Sept cent quatre
+705, TV1000 Kino, Sept cent cinq
+706, Dom Kino, Sept cent six
+707, Musica Pervoyo, Sept cent sept
+708, Vremya, Sept cent huit
+719, Mandarin TV, Sept cent dix-neuf
+720, CGTN Documentary, Sept cent vingt
+721, CCTV-4, Sept cent vingt un
+722, CGTN, Sept cent vingt deux
+723, CGTN FranÁais, Sept cent vingt trois
+724, CCTV Divertissement, Sept cent vingt quatre
+725, La ChaÓne du CinÈma Chinois, Sept cent vingt cinq
+726, Beijing TV, Sept cent vingt six
+727, Shanghai Dragon TV, Sept cent vingt sept
+728, La chaÓne de Jiangsu, Sept cent vingt huit
+729, Hunan Satellite TV, Sept cent vingt neuf
+730, Xiamen Star TV, Sept cent trente
+731, Zhejiang Star TV, Sept cent trente un
+732, TVS2, Sept cent trente deux
+733, Phoenix InfoNews, Sept cent trente trois
+734, Phoenix Chinese, Sept cent trente quatre
+740, CCTV-4, Sept cent quarante
+741, Beijing TV, Sept cent quarante un
+742, Dragon TV, Sept cent quarante deux
+743, Xiamen TV, Sept cent quarante trois
+744, Hunan TV, Sept cent quarante quatre
+745, Phoenix News, Sept cent quarante cinq
+746, Phoenix Europe, Sept cent quarante six
+747, Star TV, Sept cent quarante sept
+748, CNTV-Music, Sept cent quarante huit
+749, CNTV-1 General, Sept cent quarante neuf
+750, Neimenggu TV, Sept cent cinquante
+751, Henan TV, Sept cent cinquante un
+752, Guangdong TV, Sept cent cinquante deux
+753, Yunnan TV, Sept cent cinquante trois
+754, Hubei TV, Sept cent cinquante quatre
+755, Sichuan TV, Sept cent cinquante cinq
+756, Liaoning TV, Sept cent cinquante six
+758, CNTV-7plusmilitary and agriculture, Sept cent cinquante huit
+759, CCTV-12plusSociety and Law, Sept cent cinquante neuf
+760, CNTV-2 Finance, Sept cent soixante
+761, CGTN-Espanol, Sept cent soixante un
+762, CGTN-Arabic, Sept cent soixante deux
+763, CGTN-Russian, Sept cent soixante trois
+764, CNTV-10plusScience and Education, Sept cent soixante quatre
+765, CNTV-14plusChildren, Sept cent soixante cinq
+766, Macau Asia Satellite TV, Sept cent soixante six
+767, Ningxia TV, Sept cent soixante sept
+768, Qinghai TV, Sept cent soixante huit
+769, Guizhou TV, Sept cent soixante neuf
+770, Helongjiang TV, Sept cent soixante dix
+771, Shaanxi TV, Sept cent soixante onze
+772, Chinese Kungfu, Sept cent soixante douze
+773, China Education Television, Sept cent soixante treize
+774, Documentary Channel, Sept cent soixante quatorze
+775, CNTV-Society & Law Channel, Sept cent soixante quinze
+776, Shandong Education Television, Sept cent soixante seize
+777, Beijing TV Documentary, Sept cent soixante dix-sept
+779, Southeast Television, Sept cent soixante dix-neuf
+780, Chongqing TV, Sept cent quatre-vingt
+781, Anhui TV, Sept cent quatre-vingt un
+782, Tianjin TV, Sept cent quatre-vingt deux
+783, Shandong TV, Sept cent quatre-vingt trois
+784, Shenzhen TV, Sept cent quatre-vingt quatre
+785, Hong Kong TV, Sept cent quatre-vingt cinq
+786, One TV, Sept cent quatre-vingt six
+787, Liyuan Chinese Opera Channel, Sept cent quatre-vingt sept
+788, Wenzhou TV, Sept cent quatre-vingt huit
+789, Cartoon Channel, Sept cent quatre-vingt neuf
+790, Entertainment Channel, Sept cent quatre-vingt dix
+791, Boutique Drama Channel, Sept cent quatre-vingt onze
+792, Palace TV, Sept cent quatre-vingt douze
+793, Panda Channel, Sept cent quatre-vingt treize
+794, Gansu TV, Sept cent quatre-vingt quatorze
+795, Shanxi TV, Sept cent quatre-vingt quinze
+796, Guangxi TV, Sept cent quatre-vingt seize
+797, Jiangxi TV, Sept cent quatre-vingt dix-sept
+798, Hebei TV, Sept cent quatre-vingt dix-huit
+799, NTD Television, Sept cent quatre-vingt dix-neuf
+900, Grand Lille TV, Neuf cent
+901, TV7 Bordeaux, Neuf cent un
+902, 8 Mont-Blanc, Neuf cent deux
+903, TéléGrenoble Isère, Neuf cent trois
+904, GrandParis, Neuf cent quatre
+905, ERE TV, Neuf cent cinq
+906, La ChaÎne normande, Neuf cent six
+907, Télénantes, Neuf cent sept
+908, TV Tours Val de Loire, Neuf cent huit
+909, Cristal TV, Neuf cent neuf
+910, IDF1, Neuf cent dix
+911, Locales IDF, Neuf cent onze
+912, Alsace 20, Neuf cent douze
+913, TV78, Neuf cent treize
+914, Wéo, Neuf cent quatorze
+915, TLM, Neuf cent quinze
+916, Valenciennes TV, Neuf cent seize
+917, Canal 10, Neuf cent dix-sept
+919, Occitanie Pays Gardois, Neuf cent dix-neuf
+920, Mirabelle TV, Neuf cent vingt
+921, Vosges Télévision, Neuf cent vingt un
+922, Occitanie Montpellier, Neuf cent vingt deux
+923, Maritima TV, Neuf cent vingt trois
+924, TV Vendée, Neuf cent vingt quatre
+925, Canal 32, Neuf cent vingt cinq
+926, Grand Littoral TV, Neuf cent vingt six
+927, TVR, Neuf cent vingt sept
+928, TébéSud, Neuf cent vingt huit
+929, Tébéo, Neuf cent vingt neuf
+930, D!CI TV, Neuf cent trente
+931, MFM TV, Neuf cent trente un
+932, Télé Antilles, Neuf cent trente deux
+933, TL7, Neuf cent trente trois
+934, TVPI, Neuf cent trente quatre
+935, Azur TV, Neuf cent trente cinq
+936, Occitanie Pays Catalan, Neuf cent trente six
+937, MAT…L…, Neuf cent trente sept
+938, Angers Télé, Neuf cent trente huit
+939, Télé Bocal, Neuf cent trente neuf
+942, Occitanie Toulouse, Neuf cent quarante deux
+998, Radio, Neuf cent quatre-vingt dix-huit
+999, Mire FREEBOX, Neuf cent quatre-vingt dix-neuf
+1024, Mosaïque HD, Mille vingt quatre
+programmetv, programme télé, programme tv, programme
+sortprogrammetv, sort du programme télé, sort du programme tv, quitte le programme télé, quitte le programme tv
+twitch, stream
+télévision, mets la télévision, met une chaine télé
