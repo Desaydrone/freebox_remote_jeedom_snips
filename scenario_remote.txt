@@ -68,6 +68,12 @@ switch ($TvChannel) {
     break;
   }
   case 'programmetv': {
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=home";
+    file_get_contents($url);
+    sleep(1);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=home";
+    file_get_contents($url);
+    sleep(3);
     $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=ok";
     file_get_contents($url);
     sleep(7);
