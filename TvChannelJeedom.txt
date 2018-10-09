@@ -1,4 +1,7 @@
-
+[remet](channel) le son de la télé
+[remet](channel) le son de la télévision
+[coupe](channel) le son de la télé
+[coupe](channel) le son de la télévision
 [augmente](channel) le volume de la télévision
 [monte](channel) le volume de la télévision
 [diminue](channel) le volume de la télévision
