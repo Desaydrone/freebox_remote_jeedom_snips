@@ -1,4 +1,5 @@
-# freebox_remote_jeedom_snips
+# Télécommande vocale pour la FREEBOX
+A l'aide de Snips et jeedom
 
 Utilisation de Snips et jeedom pour controler oralement une freebox V6
 
