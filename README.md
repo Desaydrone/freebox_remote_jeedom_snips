@@ -10,23 +10,25 @@ Les fichiers à récupérer pour le moment :
 
 Pour mettre en place ce script
 
-## I - Sur l'assistant snips lui même dans l'intent TvChannelJeedom j'ai supprimé toutes les values de tvChannels et j'ai importé le contenu du fichier lst_chaine_tele.txt
+## I - Sur l'assistant snips lui même
+Dans l'intent TvChannelJeedom j'ai supprimé toutes les values de tvChannels et j'ai importé le contenu du fichier lst_chaine_tele.txt
 
-## II - Supprimer toutes les valeur de l'intent TvChannelJeedom et importer le contenu du fichier TvChannelJeedom.txt
+## II - Supprimer de valeurs
+Supprimer toutes les valeurs de l'intent TvChannelJeedom et importer le contenu du fichier TvChannelJeedom.txt
 
-Important laissez bien la console snips finir de réfléchir pour qu'elle assimile toutes ses nouveautés
+Important laissez bien la console snips finir de réfléchir pour qu'elle assimile toutes les nouveautés
 
 ## III - Mettre à jour snips avec la commande suivante
-Code : Tout sélectionner
+`sam update-assistant`
 
-sam update-assistant
-## IV - Créer un scénario qui va contenir un bloc de code (le contenu du fichier nommé : **scenario_remote.txt**
+## IV - Créer un scénario
+Ajouter un bloc de code et y copier le contenu du fichier nommé : **scenario_remote.txt**
 
 N'oubliez pas de remplacer dans le fichier les **XXX** de la ligne suivante par le code de votre télécommande freebox, que vous pouvez trouvez dans les paramètres système de la freebox player
 
 `$FreeRemoteCode = "XXXXX";`
 
-## V - Dans le plugin snips de jeedom et dans l'intent TvChannelJeedom je crée ceci :
+## V - Dans le plugin snips de jeedom et dans l'intent TvChannelJeedom créer ceci :
 Une action excecutant un scénario au quel je passe le tag suivant en paramettre
 **#[Snips-Intents][TvChannelJeedom][channel]#**
 
@@ -44,7 +46,7 @@ Petite video de démonstration : https://youtu.be/ntSlGBUQ0c0
 
 ## V0.3
 
-- Augmenté le volume  par pas de 25 (ex : Hey snips monte le son de la télé)
+- Augmenter le volume  par pas de 25 (ex : Hey snips monte le son de la télé)
 - Diminuer le volume  par pas de 25 (ex : Hey snips baisse le son de la télé)
 - Muter la télé (ex : Hey snips coupe le son de la télé)
 - Unmute la télé (ex : Hey snips remet le son de la télé)
@@ -52,7 +54,7 @@ Petite video de démonstration : https://youtu.be/ntSlGBUQ0c0
 ## V0.2
 - Accès à la télévision (ex : Hey snips mets la télévision)
 - Accès à l'application twitch (ex : Hey snips mets twitch | le stream)
-- Acces au programme télé (ex : Hey snips affiche le programme télé)
+- Accès au programme télé (ex : Hey snips affiche le programme télé)
 - Quitte le programme télé (ex : Hey snips quitte le programme télé)
 
 ##V0.1
