@@ -1,0 +1,96 @@
+// ##### V 0.2 ####
+
+$FreeRemoteCode = "XXXXX";
+$Tags= $scenario->getTags();
+$TvChannel = $Tags['#channel#'];
+$scenario->setLog("lance le prog twitch");
+
+/* function LongSoundDown(){
+  $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=vol_dec&long=true";
+  file_get_contents($url);
+}
+
+function LongSoundUp(){
+  $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=vol_inc&long=true";
+  file_get_contents($url);
+}*/
+
+switch ($TvChannel) {
+  case 'accueil': {
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=home";
+    file_get_contents($url);
+    sleep(1);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=home";
+    file_get_contents($url);
+    sleep(3);
+    break;
+  }
+  case 'chaine télé': {
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=home";
+    file_get_contents($url);
+    sleep(1);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=home";
+    file_get_contents($url);
+    sleep(3);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=ok";
+    file_get_contents($url);
+    break;
+  }
+  case 'twitch': {
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=home";
+    file_get_contents($url);
+    sleep(1);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=home";
+    file_get_contents($url);
+    sleep(3);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=left";
+    file_get_contents($url);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=left";
+    file_get_contents($url);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=up";
+    file_get_contents($url);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=up";
+    file_get_contents($url);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=ok";
+    file_get_contents($url);
+    sleep(1);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=down";
+      for ($i=0; $i<=5; $i++ )
+      {
+        file_get_contents($url);
+        sleep(1);
+      }
+    break;
+  }
+  case 'programmetv': {
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=ok";
+    file_get_contents($url);
+    sleep(7);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=green";
+    file_get_contents($url);
+    sleep(1);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=down";
+    file_get_contents($url);
+    sleep(1);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=ok";
+    file_get_contents($url);
+    sleep(1);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=ok";
+    file_get_contents($url);
+    break;
+  }
+  case 'sortprogrammetv': {
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=red";
+    file_get_contents($url);
+    break;
+  }
+  default: {
+    $TvChannel=str_split($TvChannel);
+    for ($i=0; $i<count($TvChannel); $i++ )
+    {
+      $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=$TvChannel[$i]";
+      file_get_contents($url);
+    }
+    break;
+  }
+}
