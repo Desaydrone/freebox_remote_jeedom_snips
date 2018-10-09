@@ -30,7 +30,7 @@ switch ($TvChannel) {
     sleep(3);
     break;
   }
-  case 'chaine télé': {
+  case 'télévision': {
     $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=home";
     file_get_contents($url);
     sleep(1);
