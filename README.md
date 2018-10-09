@@ -4,8 +4,8 @@ Utilisation de Snips et jeedom pour controler oralement une freebox V6
 
 ## V0.3
 
-- Augmenté le volume (ex : Hey snips monte le son de la télé)
-- Diminuer le volume (ex : Hey snips baisse le son de la télé)
+- Augmenté le volume  par pas de 25 (ex : Hey snips monte le son de la télé)
+- Diminuer le volume  par pas de 25 (ex : Hey snips baisse le son de la télé)
 - Muter la télé (ex : Hey snips coupe le son de la télé)
 - Unmute la télé (ex : Hey snips remet le son de la télé)
 
