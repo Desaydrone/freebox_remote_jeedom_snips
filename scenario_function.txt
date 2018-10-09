@@ -1,0 +1,34 @@
+$FreeRemoteCode = "69244748";
+$Tags= $scenario->getTags();
+$TvChannel = $Tags['#channel#'];
+$scenario->setLog("lance le prog twitch");
+
+switch ($TvChannel) {
+  case 'accueil': {
+    Home();
+    break;
+  }
+  case 'chaine télé': {
+    Home();
+    Television();
+    break;
+  }
+  case 'twitch': {
+    Home();
+    Twitch();
+    break;
+  }
+  case 'programmetv': {
+    Home();
+    ProgrammeTV();
+    break;
+  }
+  case 'sortprogrammetv': {
+    SortProgrammeTV();
+    break;
+  }
+  default: {
+    ChaineTV();
+    break;
+  }
+}
