@@ -1,4 +1,4 @@
-// ##### V 0.3 ####
+// ##### V 0.4 ####
 
 $FreeRemoteCode = "XXXXX";
 $Tags= $scenario->getTags();
@@ -6,6 +6,25 @@ $TvChannel = $Tags['#channel#'];
 $scenario->setLog("lance le prog twitch");
 
 switch ($TvChannel) {
+  case ($TvChannel=='pause' ||$TvChannel=='play'): {
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=play";
+    file_get_contents($url);
+    break;
+  }
+  case 'direct':{
+
+    break;
+  }
+  case 'forward': {
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=fwd";
+    file_get_contents($url);
+    break;
+  }
+  case 'rewind':{
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=bwd";
+    file_get_contents($url);
+    break;
+  }
   case ($TvChannel=='mute' || $TvChannel=='unmute'): {
     $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=mute&long=true";
     file_get_contents($url);
