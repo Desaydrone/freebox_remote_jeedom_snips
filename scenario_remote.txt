@@ -6,6 +6,21 @@ $TvChannel = $Tags['#channel#'];
 $scenario->setLog("lance le prog twitch");
 
 switch ($TvChannel) {
+  case 'activepip':{
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=XXXX";
+    file_get_contents($url);
+    break;
+  }
+  case 'switchpip': {
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=XXXX";
+    file_get_contents($url);
+    break;
+  }
+  case 'cancelpip':{
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=XXXX";
+    file_get_contents($url);
+    break;
+  }
   case ($TvChannel=='pause' ||$TvChannel=='play'): {
     $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=play";
     file_get_contents($url);
