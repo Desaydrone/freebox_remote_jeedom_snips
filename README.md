@@ -48,11 +48,12 @@ Petite video de démonstration : https://youtu.be/ntSlGBUQ0c0
 
 ## V0.4
 - mettre en pause un programme télé (ex : hey snips met en pause)
-- reprendre le prgramme télé (ex : hey snips reprend le programme)
+- reprendre le programme télé (ex : hey snips reprend le programme)
 - avancer dans le timeshift (ex : hey snips avance dans le programme)
 - reculer dans le timeshift (ex : hey snips recule dans le prgramme)
 - reprendre le direct (ex : hey snips remet le direct)
 - active le PiP (ex :hey snip active le pip)
+- desactive le PiP (ex: hey snips desactive le pip)
 - permute de chaine pour le pip (ex : hey snips permute le pip)
 
 ## V0.3
