@@ -61,13 +61,13 @@ Petite video de démonstration : https://youtu.be/ntSlGBUQ0c0
 - Diminuer le volume  par pas de 25 (ex : Hey snips baisse le son de la télé)
 - Muter la télé (ex : Hey snips coupe le son de la télé)
 - Unmute la télé (ex : Hey snips remet le son de la télé)
-
+ 
 ## V0.2
 - Accès à la télévision (ex : Hey snips mets la télévision)
 - Accès à l'application twitch (ex : Hey snips mets twitch | le stream)
 - Accès au programme télé (ex : Hey snips affiche le programme télé)
 - Quitte le programme télé (ex : Hey snips quitte le programme télé)
 
-##V0.1
+## V0.1
 
 - Permet de changer de chaîne en récupérant l'info venant de snips
