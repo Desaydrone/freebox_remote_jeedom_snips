@@ -122,7 +122,6 @@ switch ($TvChannel) {
       }
     break;
   }
-  //Tester avec le parametre EPG
   case 'programmetv': {
     $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=home";
     file_get_contents($url);
