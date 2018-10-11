@@ -3,7 +3,6 @@
 $FreeRemoteCode = "XXXXX";
 $Tags= $scenario->getTags();
 $TvChannel = $Tags['#channel#'];
-$scenario->setLog("lance le prog twitch");
 
 switch ($TvChannel) {
   case 'pip':{
@@ -40,16 +39,25 @@ switch ($TvChannel) {
     break;
   }
   case 'direct':{
-
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=green";
+    file_get_contents($url);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=ok";
+    file_get_contents($url);
     break;
   }
   case 'forward': {
-    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=fwd";
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=fwd&long=true";
+    file_get_contents($url);
+    sleep(1);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=fwd&long=true";
     file_get_contents($url);
     break;
   }
   case 'rewind':{
-    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=bwd";
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=bwd&long=true";
+    file_get_contents($url);
+    sleep(1);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=bwd&long=true";
     file_get_contents($url);
     break;
   }

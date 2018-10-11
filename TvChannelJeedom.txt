@@ -1,3 +1,14 @@
+
+[avance](channel) dans le programme
+[direct](channel)
+[remet le direct](channel)
+[avance](channel)
+[va en avant](channel)
+[avance rapide](channel)
+[active la lecture](channel)
+[reprend le programme](channel)
+[active la pause](channel)
+[met en pause](channel)
 [change de chaine](channel)
 [stop le pip](channel)
 [désactive le pip](channel)
