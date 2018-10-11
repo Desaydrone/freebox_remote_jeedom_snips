@@ -45,8 +45,19 @@ j'espère que j'ai été clair :)
 
 Petite video de démonstration : https://youtu.be/ntSlGBUQ0c0
 
-## V0.3
+## v0.5
+- mettre en pause un programme télé (ex : hey snips met en pause)
+- reprendre le programme télé (ex : hey snips reprend le programme)
+- avancer dans le timeshift (ex : hey snips avance dans le programme)
+- reculer dans le timeshift (ex : hey snips recule dans le prgramme)
+- reprendre le direct (ex : hey snips remet le direct)
 
+## V0.4
+- active le PiP (ex :hey snip active le pip)
+- desactive le PiP (ex: hey snips desactive le pip)
+- permute de chaine pour le pip (ex : hey snips permute le pip)
+
+## V0.3
 - Augmenter le volume  par pas de 25 (ex : Hey snips monte le son de la télé)
 - Diminuer le volume  par pas de 25 (ex : Hey snips baisse le son de la télé)
 - Muter la télé (ex : Hey snips coupe le son de la télé)
@@ -58,6 +69,6 @@ Petite video de démonstration : https://youtu.be/ntSlGBUQ0c0
 - Accès au programme télé (ex : Hey snips affiche le programme télé)
 - Quitte le programme télé (ex : Hey snips quitte le programme télé)
 
-##V0.1
+## V0.1
 
 - Permet de changer de chaîne en récupérant l'info venant de snips

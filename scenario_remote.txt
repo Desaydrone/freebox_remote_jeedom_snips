@@ -1,11 +1,66 @@
-// ##### V 0.3 ####
+// ##### V 0.5.1 ####
 
 $FreeRemoteCode = "XXXXX";
 $Tags= $scenario->getTags();
 $TvChannel = $Tags['#channel#'];
-$scenario->setLog("lance le prog twitch");
 
 switch ($TvChannel) {
+  case 'pip':{
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=yellow";
+    file_get_contents($url);
+    sleep(1);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=yellow";
+    file_get_contents($url);
+    sleep(1);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=right";
+    file_get_contents($url);
+    sleep(1);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=ok";
+    file_get_contents($url);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=red";
+    file_get_contents($url);
+    break;
+  }
+  case 'switchpip': {
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=red";
+    file_get_contents($url);
+    break;
+  }
+  case 'stopip':{
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=green";
+    file_get_contents($url);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=ok";
+    file_get_contents($url);
+    break;
+  }
+  case ($TvChannel=='pause' ||$TvChannel=='play'): {
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=play";
+    file_get_contents($url);
+    break;
+  }
+  case 'direct':{
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=green";
+    file_get_contents($url);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=ok";
+    file_get_contents($url);
+    break;
+  }
+  case 'forward': {
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=fwd&long=true";
+    file_get_contents($url);
+    sleep(1);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=fwd&long=true";
+    file_get_contents($url);
+    break;
+  }
+  case 'rewind':{
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=bwd&long=true";
+    file_get_contents($url);
+    sleep(1);
+    $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=bwd&long=true";
+    file_get_contents($url);
+    break;
+  }
   case ($TvChannel=='mute' || $TvChannel=='unmute'): {
     $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=mute&long=true";
     file_get_contents($url);
@@ -67,6 +122,7 @@ switch ($TvChannel) {
       }
     break;
   }
+  //Tester avec le parametre EPG
   case 'programmetv': {
     $url="http://hd1.freebox.fr/pub/remote_control?code=$FreeRemoteCode&key=home";
     file_get_contents($url);

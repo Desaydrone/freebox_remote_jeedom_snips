@@ -629,3 +629,11 @@ volup, monte, augmente
 voldown, baisse, diminue
 mute, coupe le son de la télévision, coupe le son de la télé
 unmute, remet le son de la télévision, remet le son de la télé
+pause, met en pause, active la pause
+play, reprend le programme, active la lecture
+forward, avance rapide, va en avant, avance
+rewind, retour rapide, revient en arrière, recule
+direct, remet le direct
+pip, active le pip, démarre le pip, incruste
+stopip, désactive le pip, stop le pip
+switchpip, permute le pip, permute les chaines, change de chaine
