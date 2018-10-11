@@ -634,6 +634,6 @@ play, reprend le programme, active la lecture
 forward, avance rapide, va en avant, avance
 rewind, retour rapide, revient en arrière, recule
 direct, remet le direct
-pip, active le pip, démarre le pip
+pip, active le pip, démarre le pip, incruste
 stopip, désactive le pip, stop le pip
-switchpip, permute le pip, permute les chaines
+switchpip, permute le pip, permute les chaines, change de chaine

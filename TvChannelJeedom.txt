@@ -1,3 +1,10 @@
+[change de chaine](channel)
+[stop le pip](channel)
+[désactive le pip](channel)
+[permute les chaines](channel)
+[démarre le pip](channel)
+[incruste](channel) la chiane
+[active le pip](channel) pour la chaine
 [remet](channel) le son de la télé
 [remet](channel) le son de la télévision
 [coupe](channel) le son de la télé
